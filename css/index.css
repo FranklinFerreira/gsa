@@ -1,0 +1,42 @@
+body
+{
+	width: 100%;
+}
+
+.topo
+{
+	width: 99%;
+	height: 10%;
+	position: absolute;
+	background: rgb(52, 73, 94);
+	top: 0px;
+	
+}
+.conteudo
+{
+	width: 99%;
+	height: 81%;
+	position: absolute;
+	background: rgb(170, 173, 183);
+	top: 60px;
+}
+
+.div_conteudo
+{
+	float: left;
+	width: calc(90%/4);
+	height: 100%;
+	position: relative;
+	background: rgb(223, 228, 244);
+	margin-left: calc(5%/4);
+	margin-right: calc(5%/4);
+}
+
+.rodape
+{
+	width: 99%;
+	height: 10%;
+	position: absolute;
+	background: rgb(52, 73, 94);	
+	bottom: 0px;	
+}
