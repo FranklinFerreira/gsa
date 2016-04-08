@@ -1,11 +1,31 @@
 <!Doctype html>
-<head></head>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<title>Primeiro Projeto Git</title>
+</head>
 <body>
-<form method="get" action="">
-<span>Digite um numero</span><input type="text" >
-<input type="submit" value="Enviar">
-</form>
 
+	<div class="topo">
+	</div>
+
+	<div class="conteudo">
+
+		<div class="div_conteudo">
+		</div>
+
+		<div class="div_conteudo">
+		</div>
+
+		<div class="div_conteudo">
+		</div>
+
+		<div class="div_conteudo">
+		</div>
+
+	</div>
+
+	<div class="rodape">
+	</div>
 
 </body>
 </html>
